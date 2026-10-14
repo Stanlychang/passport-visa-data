@@ -12,7 +12,7 @@ articles "Visa requirements for X citizens" and normalized by [TravelersBook](ht
 | category | visa_free · visa_on_arrival · e_visa · eta · visa_required · refused · unknown |
 | stay_value, stay_unit | allowed stay as written (day · week · month · year · unlimited) |
 | requirement_text | the original text of the article's requirement cell |
-| source_url | the Wikipedia revision the row was taken from |
+| source_revid | the Wikipedia revision ID the row was taken from — open it at `https://en.wikipedia.org/w/index.php?oldid=<source_revid>` |
 
 Not included: Taiwanese passports (TravelersBook uses Taiwan's Bureau of Consular Affairs list instead),
 Hong Kong / Macau SAR passports, and places without an ISO 3166-1 code.
