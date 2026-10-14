@@ -1,0 +1,11 @@
+The data in this repository (data/passport-visa.csv) is licensed under the
+Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+It is adapted from the English Wikipedia articles "Visa requirements for X citizens"
+by Wikipedia contributors, also licensed under CC BY-SA 4.0. Each row's source_url
+links to the exact article revision it was taken from; the revision history of each
+article lists its authors.
+
+Changes made: rows were extracted from the articles' tables and normalized into
+ISO 3166-1 alpha-2 codes, a fixed set of categories and a stay value with its unit.
