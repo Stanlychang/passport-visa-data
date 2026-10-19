@@ -1283,7 +1283,7 @@ AM,SY,e_visa,,,eVisa,1376748927
 AM,SZ,visa_required,,,Visa required,1376748927
 AM,TD,e_visa,,,eVisa,1376748927
 AM,TG,e_visa,15,day,eVisa,1376748927
-AM,TH,visa_on_arrival,60,day,eVisa / Visa on arrival,1376748927
+AM,TH,visa_required,,,Visa required,1380688618
 AM,TJ,visa_free,90,day,Visa not required,1376748927
 AM,TL,visa_on_arrival,30,day,Visa on arrival,1376748927
 AM,TM,visa_required,,,Visa required,1376748927
@@ -4212,7 +4212,7 @@ BI,TH,e_visa,,,eVisa,1376677508
 BI,TJ,e_visa,,,eVisa,1376677508
 BI,TK,visa_required,,,Visa required,1376677508
 BI,TL,visa_on_arrival,30,day,Visa on arrival,1376677508
-BI,TM,visa_required,,,Visa required,1376677508
+BI,TM,e_visa,,,eVisa,1380598610
 BI,TN,visa_required,,,Visa required,1376677508
 BI,TO,visa_required,,,Visa required,1376677508
 BI,TR,visa_required,,,Visa required,1376677508
@@ -4442,7 +4442,7 @@ BJ,TH,e_visa,,,eVisa,1354656827
 BJ,TJ,e_visa,45,day,eVisa,1354656827
 BJ,TK,visa_required,,,Visa required,1354656827
 BJ,TL,visa_on_arrival,30,day,Visa on arrival,1354656827
-BJ,TM,visa_required,,,Visa required,1354656827
+BJ,TM,e_visa,,,eVisa,1380459510
 BJ,TN,visa_free,,,Visa not required,1354656827
 BJ,TO,visa_required,,,Visa required,1354656827
 BJ,TR,visa_required,,,Visa required,1354656827
@@ -5366,7 +5366,7 @@ BS,TH,visa_required,,,Visa required,1351232167
 BS,TJ,visa_free,30,day,Visa not required,1351232167
 BS,TK,visa_required,,,Visa required,1351232167
 BS,TL,visa_on_arrival,30,day,Visa on arrival,1351232167
-BS,TM,visa_required,,,Visa required,1351232167
+BS,TM,e_visa,,,eVisa,1380459190
 BS,TN,visa_required,,,Visa required,1351232167
 BS,TO,visa_on_arrival,31,day,Free visa on arrival,1351232167
 BS,TR,e_visa,3,month,eVisa,1351232167
@@ -12385,7 +12385,7 @@ ET,SZ,visa_required,,,Visa required,1369500215
 ET,TC,visa_required,,,Visa required,1369500215
 ET,TD,e_visa,,,eVisa,1369500215
 ET,TG,visa_on_arrival,15,day,Visa on arrival,1369500215
-ET,TH,visa_on_arrival,15,day,eVisa / Visa on arrival,1369500215
+ET,TH,e_visa,,,eVisa,1380447130
 ET,TJ,e_visa,,,eVisa,1369500215
 ET,TK,visa_required,,,Visa required,1369500215
 ET,TL,visa_on_arrival,30,day,Visa on arrival,1369500215
@@ -12845,7 +12845,7 @@ FJ,TH,visa_free,60,day,Visa not required,1376549881
 FJ,TJ,e_visa,60,day,eVisa,1376549881
 FJ,TK,visa_required,,,Visa required,1376549881
 FJ,TL,visa_on_arrival,30,day,Visa on arrival,1376549881
-FJ,TM,visa_required,,,Visa required,1376549881
+FJ,TM,e_visa,,,eVisa,1380599856
 FJ,TN,visa_free,90,day,Visa not required,1376549881
 FJ,TO,visa_on_arrival,31,day,Visa on arrival,1376549881
 FJ,TR,e_visa,90,day,eVisa,1376549881
@@ -14229,7 +14229,7 @@ GE,TH,visa_free,60,day,Visa not required,1365747809
 GE,TJ,visa_free,,unlimited,Visa not required,1365747809
 GE,TK,visa_required,,,Visa required,1365747809
 GE,TL,visa_on_arrival,30,day,Visa on arrival,1365747809
-GE,TM,visa_required,,,Visa required,1365747809
+GE,TM,e_visa,,,eVisa,1380599509
 GE,TN,unknown,30,day,Visa not required (conditional),1365747809
 GE,TO,visa_required,,,Visa required,1365747809
 GE,TR,visa_free,90,day,Visa not required,1365747809
@@ -14459,7 +14459,7 @@ GH,TH,e_visa,,,eVisa,1375890627
 GH,TJ,e_visa,,,eVisa,1375890627
 GH,TK,visa_required,,,Visa required,1375890627
 GH,TL,visa_on_arrival,30,day,Visa on arrival,1375890627
-GH,TM,visa_required,,,Visa required,1375890627
+GH,TM,e_visa,,,eVisa,1380599701
 GH,TN,visa_required,,,Visa required,1375890627
 GH,TO,visa_required,,,Visa required,1375890627
 GH,TR,visa_required,,,Visa required,1375890627
@@ -16725,7 +16725,7 @@ HT,TG,e_visa,15,day,eVisa,1378436462
 HT,TH,e_visa,30,day,eVisa,1378436462
 HT,TJ,visa_required,,,Visa required,1378436462
 HT,TL,visa_on_arrival,30,day,Visa on arrival,1378436462
-HT,TM,visa_required,,,Visa required,1378436462
+HT,TM,e_visa,,,eVisa,1380460234
 HT,TN,visa_required,,,Visa required,1378436462
 HT,TO,visa_required,,,Visa required,1378436462
 HT,TR,visa_required,3,month,Visa required,1378436462
@@ -17741,7 +17741,7 @@ IN,FM,visa_free,30,day,Visa not required,1379381764
 IN,FO,visa_required,,,Visa required,1379381764
 IN,FR,visa_required,,,Visa required,1379381764
 IN,GA,e_visa,90,day,eVisa,1379381764
-IN,GB,visa_required,,,Visa required,1379381764
+IN,GB,e_visa,,,eVisa,1380720604
 IN,GD,visa_free,3,month,Visa not required,1379381764
 IN,GE,e_visa,30,day,eVisa,1379381764
 IN,GF,visa_required,,,Visa required,1379381764
@@ -18981,7 +18981,7 @@ JM,TH,visa_free,60,day,Visa not required,1366883957
 JM,TJ,visa_free,30,day,Visa not required,1366883957
 JM,TK,visa_required,,,Visa required,1366883957
 JM,TL,visa_on_arrival,30,day,Visa on arrival,1366883957
-JM,TM,visa_required,,,Visa required,1366883957
+JM,TM,e_visa,,,eVisa,1380459702
 JM,TN,visa_required,,,Visa required,1366883957
 JM,TO,visa_required,,,Visa required,1366883957
 JM,TR,e_visa,1,month,eVisa,1366883957
@@ -22575,7 +22575,7 @@ LI,TG,e_visa,15,day,eVisa,1349290007
 LI,TH,visa_free,60,day,Visa not required,1349290007
 LI,TJ,visa_free,30,day,Visa not required,1349290007
 LI,TL,visa_on_arrival,30,day,Visa on arrival,1349290007
-LI,TM,visa_required,,,Visa required,1349290007
+LI,TM,e_visa,,,eVisa,1380458952
 LI,TN,visa_free,3,month,Visa not required,1349290007
 LI,TO,visa_free,90,day,Visa not required,1349290007
 LI,TR,visa_free,90,day,Visa not required,1349290007
@@ -26102,7 +26102,7 @@ MN,TG,e_visa,15,day,eVisa,1376549212
 MN,TH,visa_free,30,day,Visa not required,1376549212
 MN,TJ,visa_free,30,day,Visa not required / eVisa,1376549212
 MN,TL,visa_on_arrival,30,day,Visa on arrival,1376549212
-MN,TM,visa_required,,,Visa required,1376549212
+MN,TM,e_visa,,,eVisa,1380459966
 MN,TN,visa_required,,,Visa required,1376549212
 MN,TO,visa_required,,,Visa required,1376549212
 MN,TR,visa_free,30,day,Visa not required,1376549212
@@ -30368,7 +30368,7 @@ PA,TH,visa_required,60,day,Visa required,1379866764
 PA,TJ,e_visa,45,day,eVisa,1379866764
 PA,TK,visa_required,,,Permit required,1379866764
 PA,TL,visa_on_arrival,30,day,Visa on arrival,1379866764
-PA,TM,visa_required,,,Visa required,1379866764
+PA,TM,e_visa,,,eVisa,1380600010
 PA,TN,visa_required,,,Visa required,1379866764
 PA,TO,visa_required,,,Visa required,1379866764
 PA,TR,visa_free,90,day,Visa not required,1379866764
@@ -37399,7 +37399,7 @@ SY,TG,e_visa,15,day,eVisa,1376750701
 SY,TH,e_visa,,,eVisa,1376750701
 SY,TJ,visa_required,,,Visa required,1376750701
 SY,TL,visa_on_arrival,30,day,Visa on arrival,1376750701
-SY,TM,visa_required,,,Visa required,1376750701
+SY,TM,e_visa,,,eVisa,1380599360
 SY,TN,visa_required,,,Visa required,1376750701
 SY,TO,visa_required,,,Visa required,1376750701
 SY,TR,visa_required,,,Visa required,1376750701
@@ -38515,7 +38515,7 @@ TJ,TD,e_visa,,,eVisa,1379753288
 TJ,TG,e_visa,15,day,eVisa,1379753288
 TJ,TH,e_visa,15,day,eVisa,1379753288
 TJ,TL,visa_on_arrival,30,day,Visa on arrival,1379753288
-TJ,TM,visa_required,,,Visa required,1379753288
+TJ,TM,e_visa,,,eVisa,1380598862
 TJ,TN,visa_required,,,Visa required,1379753288
 TJ,TO,visa_required,,,Visa required,1379753288
 TJ,TR,visa_required,,,Visa required,1379753288
@@ -42299,6 +42299,7 @@ VN,QA,e_visa,,,eVisa,1380189239
 VN,RE,visa_required,,,Visa required,1380189239
 VN,RO,visa_required,,,Visa required,1380189239
 VN,RS,e_visa,90,day,eVisa,1380189239
+VN,RU,visa_free,30,day,Visa not required,1380505424
 VN,RW,visa_free,30,day,Visa not required,1380189239
 VN,SA,visa_required,,,Visa required,1380189239
 VN,SB,visa_required,,,Visa required,1380189239
@@ -42351,7 +42352,7 @@ VN,WS,visa_on_arrival,90,day,Entry permit on arrival,1380189239
 VN,XK,visa_required,,,Visa required,1380189239
 VN,YE,visa_required,,,Visa required,1380189239
 VN,YT,visa_required,,,Visa required,1380189239
-VN,ZA,visa_required,,,Visa required,1380189239
+VN,ZA,eta,90,day,Electronic Travel Authorisation,1380505424
 VN,ZM,visa_on_arrival,90,day,eVisa / Visa on arrival,1380189239
 VN,ZW,e_visa,1,month,eVisa,1380189239
 VU,AD,visa_required,,,Visa required,1348380591
