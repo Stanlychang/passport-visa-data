@@ -196,7 +196,7 @@ AD,ZA,visa_free,90,day,Visa not required,1345953817
 AD,ZM,visa_free,90,day,Visa not required,1345953817
 AD,ZW,visa_on_arrival,3,month,Visa on arrival,1345953817
 AE,AD,visa_free,,,Visa not required,1379576017
-AE,AF,e_visa,,,eVisa / Travel restricted,1379576017
+AE,AF,unknown,,,Travel restricted,1382211590
 AE,AG,visa_free,30,day,Visa not required,1379576017
 AE,AI,e_visa,,,eVisa,1379576017
 AE,AL,visa_free,90,day,Visa not required,1379576017
@@ -951,7 +951,7 @@ AL,GB,e_visa,,,Online Visa required,1376062691
 AL,GD,visa_required,,,Visa required,1376062691
 AL,GE,visa_free,1,year,Visa not required,1376062691
 AL,GG,visa_required,,,Visa required,1376062691
-AL,GH,visa_required,,,Visa required,1376062691
+AL,GH,e_visa,90,day,eVisa,1382895999
 AL,GI,visa_free,,,Visa not required,1376062691
 AL,GL,visa_free,90,day,Visa not required,1376062691
 AL,GM,visa_free,,,Visa not required,1376062691
@@ -997,7 +997,7 @@ AL,LA,visa_on_arrival,30,day,eVisa / Visa on arrival,1376062691
 AL,LB,visa_required,,,Visa required,1376062691
 AL,LC,visa_required,,,Visa required,1376062691
 AL,LI,visa_free,90,day,Visa not required,1376062691
-AL,LK,visa_on_arrival,30,day,ETA / Visa on arrival,1376062691
+AL,LK,eta,30,day,Electronic Travel Authorisation,1382895999
 AL,LR,e_visa,3,month,e-VOA,1376062691
 AL,LS,visa_required,,,Visa required,1376062691
 AL,LT,visa_free,90,day,Visa not required,1376062691
@@ -1109,7 +1109,7 @@ AL,WS,visa_free,60,day,Visa not required,1376062691
 AL,XK,visa_free,,,90 days; ID card valid.,1376062691
 AL,YE,visa_required,,,Visa required,1376062691
 AL,YT,visa_free,90,day,Visa not required,1376062691
-AL,ZA,e_visa,,,eVisa,1376062691
+AL,ZA,eta,,,Electronic Travel Authorization / eVisa,1382895999
 AL,ZM,visa_free,30,day,Visa not required,1376062691
 AL,ZW,visa_on_arrival,1,month,eVisa / Visa on arrival,1376062691
 AM,AD,visa_required,,,Visa required,1376748927
@@ -5607,12 +5607,12 @@ BW,BD,visa_free,3,month,Visa not required,1370441325
 BW,BE,visa_required,,,Visa required,1370441325
 BW,BF,e_visa,,,eVisa,1370441325
 BW,BG,visa_required,,,Visa required,1370441325
-BW,BH,visa_on_arrival,,,eVisa / visa on arrival,1370441325
+BW,BH,e_visa,,,eVisa,1382504865
 BW,BI,visa_on_arrival,1,month,Visa on arrival,1370441325
 BW,BJ,visa_free,90,day,Visa not required,1370441325
-BW,BM,visa_free,,,Visa not required,1370441325
+BW,BM,visa_required,,,Visa required,1382504865
 BW,BN,visa_required,,,Visa required,1370441325
-BW,BO,visa_on_arrival,90,day,eVisa / Visa on arrival,1370441325
+BW,BO,visa_required,90,day,Visa required,1382504865
 BW,BR,visa_free,90,day,Visa not required,1370441325
 BW,BS,visa_free,3,month,Visa not required,1370441325
 BW,BT,e_visa,,,eVisa,1370441325
@@ -5631,7 +5631,7 @@ BW,CN,visa_required,,,Visa required,1370441325
 BW,CO,e_visa,,,eVisa,1370441325
 BW,CR,visa_required,,,Visa required,1370441325
 BW,CU,e_visa,,,eVisa,1370441325
-BW,CV,visa_on_arrival,,,Visa on arrival,1370441325
+BW,CV,visa_required,,,Visa required,1382504865
 BW,CW,visa_required,,,Visa required,1370441325
 BW,CY,visa_required,,,Visa required,1370441325
 BW,CZ,visa_required,,,Visa required,1370441325
@@ -5656,10 +5656,10 @@ BW,FR,visa_required,,,Visa required,1370441325
 BW,GA,e_visa,,,eVisa,1370441325
 BW,GB,visa_required,,,Visa required,1370441325
 BW,GD,visa_free,3,month,Visa not required,1370441325
-BW,GE,visa_free,90,day,Visa not required,1370441325
+BW,GE,visa_free,1,year,Visa not required,1382504865
 BW,GF,visa_required,,,Visa required,1370441325
-BW,GH,visa_free,60,day,Visa not required,1370441325
-BW,GI,visa_free,,,Visa not required,1370441325
+BW,GH,visa_free,90,day,Visa not required,1382504865
+BW,GI,visa_required,,,Visa required,1382504865
 BW,GL,visa_required,,,Visa required,1370441325
 BW,GM,visa_free,90,day,Visa not required,1370441325
 BW,GN,e_visa,,,eVisa,1370441325
@@ -5668,14 +5668,14 @@ BW,GR,visa_required,,,Visa required,1370441325
 BW,GS,visa_required,,,Permit required,1370441325
 BW,GT,visa_required,,,Visa required,1370441325
 BW,GU,visa_required,,,Visa required,1370441325
-BW,GW,visa_required,,,Visa required,1370441325
+BW,GW,visa_on_arrival,,,Visa on arrival,1382504865
 BW,GY,visa_free,90,day,Visa not required,1370441325
 BW,HK,visa_free,90,day,Visa not required,1370441325
 BW,HN,visa_required,,,Visa required,1370441325
 BW,HR,visa_required,,,Visa required,1370441325
 BW,HT,visa_free,3,month,Visa not required,1370441325
 BW,HU,visa_required,,,Visa required,1370441325
-BW,ID,visa_required,,,Visa required,1370441325
+BW,ID,e_visa,,,eVisa,1382504865
 BW,IE,visa_required,,,Visa required,1370441325
 BW,IL,eta,90,day,Electronic Travel Authorization,1370441325
 BW,IN,e_visa,60,day,e-Visa,1370441325
@@ -5687,7 +5687,7 @@ BW,IT,visa_required,,,Visa required,1370441325
 BW,JM,visa_free,,,Visa not required,1370441325
 BW,JO,visa_required,,,Visa required,1370441325
 BW,JP,visa_required,,,Visa required,1370441325
-BW,KE,eta,90,day,Electronic Travel Authorisation,1370441325
+BW,KE,visa_free,90,day,Visa not required,1382504865
 BW,KG,e_visa,,,eVisa,1370441325
 BW,KH,visa_on_arrival,30,day,eVisa / Visa on arrival,1370441325
 BW,KI,visa_free,90,day,Visa not required,1370441325
@@ -5702,7 +5702,7 @@ BW,LA,visa_on_arrival,30,day,eVisa / Visa on arrival,1370441325
 BW,LB,visa_required,,,Visa required,1370441325
 BW,LC,visa_free,6,week,Visa not required,1370441325
 BW,LI,visa_required,,,Visa required,1370441325
-BW,LK,visa_on_arrival,30,day,ETA / Visa on arrival,1370441325
+BW,LK,eta,30,day,Electronic travel authorisation (ETA),1382504865
 BW,LR,e_visa,,,eVisa,1370441325
 BW,LS,visa_free,90,day,Visa not required,1370441325
 BW,LT,visa_required,,,Visa required,1370441325
@@ -5715,7 +5715,7 @@ BW,MD,e_visa,,,eVisa,1370441325
 BW,ME,visa_required,,,Visa required,1370441325
 BW,MG,visa_on_arrival,90,day,eVisa / Visa on arrival,1370441325
 BW,MH,visa_required,,,Visa required,1370441325
-BW,MK,visa_free,90,day,Visa not required,1370441325
+BW,MK,visa_required,,,Visa required,1382504865
 BW,ML,visa_required,,,Visa required,1370441325
 BW,MM,visa_required,,,Visa required,1370441325
 BW,MN,e_visa,,,eVisa,1370441325
@@ -5764,7 +5764,7 @@ BW,RU,visa_free,30,day,Visa not required,1370441325
 BW,RW,visa_free,30,day,Visa not required,1370441325
 BW,SA,visa_required,,,Visa required,1370441325
 BW,SB,visa_required,,,Visa required,1370441325
-BW,SC,visa_on_arrival,3,month,Visitor's Permit on arrival,1370441325
+BW,SC,visa_free,3,month,Visa not required,1382504865
 BW,SD,visa_required,,,Visa required,1370441325
 BW,SE,visa_required,,,Visa required,1370441325
 BW,SG,visa_free,30,day,Visa not required,1370441325
@@ -5774,17 +5774,17 @@ BW,SK,visa_required,,,Visa required,1370441325
 BW,SL,visa_on_arrival,,,Visa on arrival,1370441325
 BW,SM,visa_required,,,Visa required,1370441325
 BW,SN,visa_on_arrival,90,day,Visa on arrival,1370441325
-BW,SO,e_visa,30,day,eVisa,1370441325
-BW,SR,e_visa,,,Electronic Visa,1370441325
+BW,SO,eta,30,day,eVisa / electronic travel authorisation,1382504865
+BW,SR,visa_free,90,day,Visa not required,1382504865
 BW,SS,e_visa,,,eVisa,1370441325
 BW,ST,e_visa,,,eVisa,1370441325
 BW,SV,e_visa,,,eVisa,1370441325
 BW,SX,visa_required,,,Visa required,1370441325
 BW,SY,e_visa,,,eVisa,1370441325
 BW,SZ,visa_free,30,day,Visa not required,1370441325
-BW,TC,visa_required,,,Visa required,1370441325
+BW,TC,visa_free,,,Visa not required,1382504865
 BW,TD,e_visa,,,eVisa,1370441325
-BW,TG,e_visa,15,day,eVisa,1370441325
+BW,TG,visa_free,30,day,Visa not required,1382504865
 BW,TH,e_visa,,,eVisa,1370441325
 BW,TJ,visa_required,,,Visa required,1370441325
 BW,TK,visa_required,,,Visa required,1370441325
@@ -5792,7 +5792,7 @@ BW,TL,visa_on_arrival,30,day,Visa on arrival,1370441325
 BW,TM,visa_required,,,Visa required,1370441325
 BW,TN,visa_required,,,Visa required,1370441325
 BW,TO,visa_required,,,Visa required,1370441325
-BW,TR,e_visa,,,eVisa,1370441325
+BW,TR,visa_required,,,Visa required,1382504865
 BW,TT,visa_free,,,Visa not required,1370441325
 BW,TV,visa_on_arrival,1,month,Visa on arrival,1370441325
 BW,TW,visa_required,,,Visa required,1370441325
@@ -5811,7 +5811,7 @@ BW,VN,e_visa,90,day,eVisa,1370441325
 BW,VU,visa_free,30,day,Visa not required,1370441325
 BW,WF,visa_required,,,Visa required,1370441325
 BW,WS,visa_on_arrival,60,day,Entry Permit on arrival,1370441325
-BW,XK,visa_free,90,day,Visa not required,1370441325
+BW,XK,visa_required,,,Visa required,1382504865
 BW,YE,visa_required,,,Visa required,1370441325
 BW,YT,visa_required,,,Visa required,1370441325
 BW,ZA,visa_free,90,day,Visa not required,1370441325
@@ -5939,7 +5939,7 @@ BY,LY,e_visa,30,day,eVisa,1377545086
 BY,MA,visa_required,,,Visa required,1377545086
 BY,MC,visa_required,,,Visa required,1377545086
 BY,MD,visa_free,90,day,Visa not required,1377545086
-BY,ME,visa_free,30,day,Visa not required,1377545086
+BY,ME,visa_required,,,Visa required,1383290407
 BY,MG,visa_on_arrival,90,day,eVisa/Visa on arrival,1377545086
 BY,MH,visa_required,,,Visa required,1377545086
 BY,MK,visa_required,,,Visa required,1377545086
@@ -8219,7 +8219,7 @@ CN,MK,visa_required,,,Visa required,1379768727
 CN,ML,visa_required,,,Visa required,1379768727
 CN,MM,visa_on_arrival,28,day,eVisa / Visa on arrival,1379768727
 CN,MN,e_visa,30,day,eVisa,1379768727
-CN,MP,visa_free,14,day,Visa not required,1379768727
+CN,MP,visa_required,,,Visa required,1382843304
 CN,MQ,visa_required,,,Visa required,1379768727
 CN,MR,e_visa,,,eVisa,1379768727
 CN,MS,e_visa,,,eVisa,1379768727
@@ -21291,7 +21291,7 @@ KW,AI,e_visa,,,eVisa,1379876740
 KW,AL,visa_free,90,day,Visa not required,1379876740
 KW,AM,visa_free,180,day,Visa not required,1379876740
 KW,AO,e_visa,,,eVisa,1379876740
-KW,AR,visa_required,,,Visa required,1379876740
+KW,AR,unknown,,,AVE,1382342135
 KW,AS,visa_required,,,Visa required,1379876740
 KW,AT,visa_required,,,Visa required,1379876740
 KW,AU,e_visa,,,Online Visa required,1379876740
@@ -23804,7 +23804,7 @@ LV,KI,visa_free,90,day,Visa not required,1349289909
 LV,KM,visa_on_arrival,,,Visa on arrival,1349289909
 LV,KN,eta,3,month,Electronic Travel Authorisation,1349289909
 LV,KP,visa_required,,,Visa required,1349289909
-LV,KR,visa_free,90,day,Visa not required,1349289909
+LV,KR,eta,90,day,Electronic travel authorization,1382285693
 LV,KW,visa_on_arrival,3,month,eVisa / Visa on arrival,1349289909
 LV,KY,visa_free,6,month,Visa not required for 6 months,1349289909
 LV,KZ,visa_free,30,day,Visa not required,1349289909
@@ -24842,7 +24842,7 @@ ME,BR,visa_free,90,day,Visa not required,1379336607
 ME,BS,e_visa,,,eVisa,1379336607
 ME,BT,e_visa,,,eVisa,1379336607
 ME,BW,e_visa,3,month,eVisa,1379336607
-ME,BY,visa_free,30,day,Visa not required,1379336607
+ME,BY,visa_required,,,Visa required,1383293869
 ME,BZ,visa_required,,,Visa required,1379336607
 ME,CA,visa_required,,,Visa required,1379336607
 ME,CD,e_visa,7,day,eVisa,1379336607
@@ -24985,7 +24985,7 @@ ME,QA,visa_on_arrival,30,day,eVisa / Visa on arrival,1379336607
 ME,RE,visa_free,90,day,Visa not required,1379336607
 ME,RO,visa_free,90,day,Visa not required,1379336607
 ME,RS,visa_free,90,day,Visa not required,1379336607
-ME,RU,visa_free,30,day,Visa not required,1379336607
+ME,RU,visa_required,,,Visa required,1383293869
 ME,RW,visa_on_arrival,30,day,eVisa / Visa on arrival,1379336607
 ME,SA,visa_on_arrival,90,day,eVisa / Visa on arrival,1379336607
 ME,SB,e_visa,,,eVisa,1379336607
@@ -25017,7 +25017,7 @@ ME,TL,visa_on_arrival,30,day,Visa on arrival,1379336607
 ME,TM,e_visa,,,eVisa,1379336607
 ME,TN,visa_free,3,month,Visa not required,1379336607
 ME,TO,visa_required,,,Visa required,1379336607
-ME,TR,visa_free,3,month,Visa not required,1379336607
+ME,TR,visa_required,,,Visa required,1383293869
 ME,TT,visa_free,30,day,Visa not required,1379336607
 ME,TV,visa_on_arrival,1,month,Visa on arrival,1379336607
 ME,TW,e_visa,30,day,eVisa,1379336607
@@ -33262,7 +33262,7 @@ RU,LY,e_visa,,,eVisa,1380020542
 RU,MA,visa_free,3,month,Visa not required,1380020542
 RU,MC,visa_required,,,Visa required,1380020542
 RU,MD,visa_free,90,day,Visa not required,1380020542
-RU,ME,visa_free,30,day,Visa not required,1380020542
+RU,ME,visa_required,,,Visa required,1383094589
 RU,MF,visa_required,,,Visa required,1380020542
 RU,MG,visa_on_arrival,90,day,eVisa / Visa on arrival,1380020542
 RU,MH,visa_on_arrival,90,day,Visa on arrival,1380020542
@@ -33709,7 +33709,7 @@ SA,LY,e_visa,30,day,eVisa,1374621826
 SA,MA,visa_free,90,day,Visa not required,1374621826
 SA,MC,visa_required,,,Visa required,1374621826
 SA,MD,e_visa,,,eVisa,1374621826
-SA,ME,visa_free,90,day,Visa not required,1374621826
+SA,ME,visa_required,,,Visa required,1383137925
 SA,MG,visa_on_arrival,90,day,eVisa / Visa on arrival,1374621826
 SA,MH,visa_required,,,Visa required,1374621826
 SA,MK,visa_required,,,Visa required,1374621826
@@ -39546,7 +39546,7 @@ TR,LY,unknown,,,Visa not required (conditional) / eVisa,1368391571
 TR,MA,visa_free,3,month,Visa not required,1368391571
 TR,MC,visa_required,,,Visa required,1368391571
 TR,MD,visa_free,90,day,Visa not required,1368391571
-TR,ME,visa_free,30,day,Visa not required,1368391571
+TR,ME,visa_required,,,Visa required,1383216117
 TR,MF,visa_required,,,Visa required - Possible to visit with a multiple entry Schengen visa or an EU residence permit,1368391571
 TR,MG,visa_on_arrival,90,day,eVisa / Visa on arrival,1368391571
 TR,MH,visa_on_arrival,90,day,Visa on arrival,1368391571
